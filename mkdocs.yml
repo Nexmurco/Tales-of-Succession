@@ -7,7 +7,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: gray
+      primary: red
       accent: red
       toggle:
         icon: material/toggle-switch-off-outline
