@@ -1,2 +1,3 @@
-![[List of Events#Events]]
+[[List of Events]
+[[The Character]]
 
