@@ -1,3 +1,6 @@
-[[List of Events]
+# Quick Links
+
+[[List of Events]]
+<br>
 [[The Character]]
 
