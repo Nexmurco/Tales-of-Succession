@@ -1,2 +1,0 @@
-#Location 
-A location containing [[Forest Clearing]], [[Forest Path]], and [[Forest Edge]]. To the east is [[The River]]. Presumably [[The Town]] is nearby, as [[The Character]] [[Event 2|considered traveling there]].

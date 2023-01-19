@@ -1,2 +1,0 @@
-#Object 
-A doorway through [[The Golden Tree]]. Upon inspecting the tree, [[The Character]] found they had gone through without recollection, caused by some entrancing effect from seeing the  [[Text of the Golden Tree]]. Although no actual door was seen, it was implied from [[The Doorknob of The Golden Tree]]
