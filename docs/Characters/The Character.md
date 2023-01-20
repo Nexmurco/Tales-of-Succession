@@ -11,7 +11,4 @@
 
 
 ## Inventory
-
-Log: [[Inventory Log]]
-
-![[Inventory Log#Current Inventory]]
+[[Inventory Log]]
