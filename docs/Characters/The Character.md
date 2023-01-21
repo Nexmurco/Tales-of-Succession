@@ -1,7 +1,5 @@
 #Person #Character 
 
-## The Story
-[[List of Events]]
 
 ## Character Notes
 - We seem to be familiar with the area around [[The Forest]] including [[The Town]] and [[The River]]
