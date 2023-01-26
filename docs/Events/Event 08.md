@@ -1,0 +1,7 @@
+# Event 08
+#Gavin #Event 
+The [[The Abyssal Waters|strong current]] overwhelms [[The Character|you]]. You begin to toss and tumble in the water. While you’re hold your breath, you flail your arms in desperation to grab onto anything you can find - no luck. Ahead of you, you hear the roaring sound of water falling. Listening closer, you can almost hear the soothing sound of [[Waterfall Hummingbirds|humming birds]] past the [[The Abyssal Waterfall|waterfall]]. “Maybe I can survive the waterfall, and get out of this current.” you think to yourself. As you get closer and closer, a hand grips onto yours tightly. “[[The Group by the Waterfall|We]] got him!” [[The Man by the Waterfall|a man]] shouts from above the water. “Now PULL.” he says. 
+Do you break from of the man’s grip, and continue your decent to the waterfall? Or do you embrace the man’s grip, and hope he’s an ally?
+
+---
+Tags: #Gavin #Event 

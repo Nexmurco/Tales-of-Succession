@@ -1,3 +1,6 @@
 # The River
-#Location 
+
 A river to the east of [[The Forest]]. 
+
+---
+Tags: #Location 
