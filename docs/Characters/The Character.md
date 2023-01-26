@@ -3,7 +3,8 @@
 ## Character Notes
 ### Bio
 
-- We are called traveler ([[Event 04]])
+- We are called "traveler" ([[Event 04]])
+- Notes about our name: [[The Character's Name]]
 
 ### Knowledge
 
@@ -15,7 +16,7 @@
 
 ### Personality and Emotions
 
-- Engaged by thrills, often enjoyed ([[Event 02]], [[Event 07]], [[Event 09]])
+- Engaged by thrills, often enjoys them ([[Event 02]], [[Event 07]], [[Event 09]])
 - Feelings of Curiosity ([[Event 02]], [[Event 06]])
 - Feelings of Confusion ([[Event 02]], [[Event 03]], [[Event 11]])
 - Feelings of Greed or Envy ([[Event 06]])
@@ -25,15 +26,14 @@
 
 ### Happenings
 
-- We have been mesmerized by the [[Text of the Golden Tree]], [[The Song of the Golden Man]], and also maybe the eyes of [[The Golden Man]] ([[Event 03]], [[Event 04]])
-- We have been communicated with telepathically ([[Event 04]])
+- We were mesmerized by the [[Text of the Golden Tree]], [[The Song of the Golden Man]], and also maybe the eyes of [[The Golden Man]] ([[Event 03]], [[Event 04]])
+- We were communicated with telepathically ([[Event 04]])
 - We inhaled [[The Rust of the Statue]] ([[Event 06]]) but appear to be fine ([[Event 06]], [[Event 07]])
-- We are transported by river and end up from [[The Golden Chamber]]/[[The Abyss]] to [[The Waterfall]]  
-- We do not give our name to [[The Group by the Waterfall]] ([[Event 10]]) (Because we don't trust them, don't have one, don't remember it?)
+- We were transported by river and end up going from [[The Golden Chamber]]/[[The Abyss]] to [[The Waterfall]] 
+- We show we are a very strong swimmer and we have normal lung capacity: surviving a rapid river and being plunged to the base of a waterfall while wearing clothes and holding objects in both hands ([[Event 07]], [[Event 08]], [[Event 09]])
+- We did not give [[The Character's Name|our name]] to [[The Group by the Waterfall]] ([[Event 10]]) (Because we don't trust them, don't have one, don't remember it?). We did not answer their questions or converse much with them either.
 
-## Inventory
-![[Inventory Log#Current Inventory]]
-
+## [[Inventory Log#Current Inventory|Inventory]]
 
 ---
 Tags: #Person #Character 

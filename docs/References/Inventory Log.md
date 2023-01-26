@@ -14,3 +14,6 @@
 1. [[Starting Clothes]]
 2. [[The Case of Keys]]
 3. [[The Sword of the Rusted Statue]]
+
+---
+Tags: #Character #Reference 
