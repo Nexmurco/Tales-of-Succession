@@ -29,7 +29,7 @@
 - We have been communicated with telepathically ([[Event 04]])
 - We inhaled [[The Rust of the Statue]] ([[Event 06]]) but appear to be fine ([[Event 06]], [[Event 07]])
 - We are transported by river and end up from [[The Golden Chamber]]/[[The Abyss]] to [[The Waterfall]]  
-- We hide our name from [[The Group by the Waterfall]] ([[Event 10]])
+- We do not give our name to [[The Group by the Waterfall]] ([[Event 10]]) (Because we don't trust them, don't have one, don't remember it?)
 
 ## Inventory
 ![[Inventory Log#Current Inventory]]
