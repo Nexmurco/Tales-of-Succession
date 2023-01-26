@@ -28,9 +28,7 @@
 - We have been mesmerized by the [[Text of the Golden Tree]], [[The Song of the Golden Man]], and also maybe the eyes of [[The Golden Man]] ([[Event 03]], [[Event 04]])
 - We have been communicated with telepathically ([[Event 04]])
 - We inhaled [[The Rust of the Statue]] ([[Event 06]]) but appear to be fine ([[Event 06]], [[Event 07]])
-- We jump down the abyss ([[Event 07]])
 - We are transported by river and end up from [[The Golden Chamber]]/[[The Abyss]] to [[The Waterfall]]  
-- We survive falling down [[The Waterfall]]
 - We hide our name from [[The Group by the Waterfall]] ([[Event 10]])
 
 ## Inventory
