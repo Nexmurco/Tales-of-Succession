@@ -3,7 +3,7 @@
 ## Character Notes
 ### Bio
 
-- We are called "traveler" ([[Event 04]])
+- We are once called "traveler" ([[Event 04]])
 - Notes about our name: [[The Character's Name]]
 
 ### Knowledge
@@ -23,6 +23,9 @@
 - Feelings of Fear ([[Event 06]], [[Event 07]])
 - Feelings of Determination or Bravery ([[Event 07]], [[Event 08]])
 - Cool and Collected under Pressure ([[Event 07]], [[Event 08]], [[Event 09]])
+- Guarded and Avoidant of Conversation ([[Event 10]])
+- Feelings of Exhaustion ([[Event 11]])
+- Feelings of Anger ([[Event 12]])
 
 ### Happenings
 
@@ -31,9 +34,12 @@
 - We inhaled [[The Rust of the Statue]] ([[Event 06]]) but appear to be fine ([[Event 06]], [[Event 07]])
 - We were transported by river and end up going from [[The Golden Chamber]]/[[The Abyss]] to [[The Waterfall]] 
 - We show we are a very strong swimmer and we have normal lung capacity: surviving a rapid river and being plunged to the base of a waterfall while wearing clothes and holding objects in both hands ([[Event 07]], [[Event 08]], [[Event 09]])
-- We did not give [[The Character's Name|our name]] to [[The Group by the Waterfall]] ([[Event 10]]) (Because we don't trust them, don't have one, don't remember it?). We did not answer their questions or converse much with them either.
+- We did not give [[The Character's Name|our name]] to [[The Brigands]] ([[Event 10]]) (Because we don't trust them, don't have one, don't remember it?). We did not answer their questions or converse much with them either.
+- We slept through [[The Brigands]] packing up camp, leaving, and maybe even stealing our [[The Diamond Shaped Key|key]] ([[Event 11]])
+- We have half-decent tracking skills ([[Event 12]])
 
-## [[Inventory Log#Current Inventory|Inventory]]
+## Inventory
+[[Inventory Log]]
 
 ---
 Tags: #Person #Character 

@@ -8,7 +8,7 @@
 - [[Event 06]]
 	- Although it was assumed we have clothes, [[Event 06]] and [[Event 07]] specifically calls it out.
 - [[Event 11]]
-	- The [[The Diamond Shaped Key]] has disappeared. We are unsure if it was just lost or if [[The Group by the Waterfall]] stole it.
+	- The [[The Diamond Shaped Key]] has disappeared. We are unsure if it was just lost or if [[The Brigands]] stole it.
 
 ## Current Inventory
 1. [[Starting Clothes]]
@@ -16,4 +16,4 @@
 3. [[The Sword of the Rusted Statue]]
 
 ---
-Tags: #Character #Reference 
+Tags: #Character #Reference #Object 
